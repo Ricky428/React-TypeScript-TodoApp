@@ -32,7 +32,7 @@ const App: React.FC = () => {
   // console.log(todos);
   return (
     <div>
-      <h1>Starting My React TypeScript Journey </h1>
+      <h1> React TypeScript Todo App </h1>
 
       <InputField todo={todo} setTodo={setTodo} handleAdd={handleAdd} />
 
