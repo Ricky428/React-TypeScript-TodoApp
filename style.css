@@ -1,0 +1,22 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.single-todo-form {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  margin-left: 0.5rem;
+}
+
+.icons {
+  display: flex;
+  align-items: center;
+  margin: 1rem;
+  cursor: pointer;
+}
+
+.icons svg {
+  margin-left: 2rem;
+}
